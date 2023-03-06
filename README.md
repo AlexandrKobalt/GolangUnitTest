@@ -1,3 +1,3 @@
 # GolangTestUnitTest
 
-Just couple of pretty simple unit tests
+Just pretty simple unit test
